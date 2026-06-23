@@ -1,0 +1,7 @@
+10.0.0.1 -> Private (Class A)
+8.8.8.8 -> Public
+172.20.1.5 -> Private (Class B)
+255.080.134.200 -> Public
+172.15.255.254 -> Public
+1.1.1.1 -> Public
+10.10.10.10 -> Private (Class A)
